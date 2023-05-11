@@ -1,0 +1,2 @@
+@REM xsd /classes pfs-2017-04-01.xsd pfs-abbr-2017-04-01.xsd pfs-dt-2017-04-01.xsd pfs-full-2017-04-01.xsd pfs-gcd-2017-04-01.xsd pfs-mic-2017-04-01.xsd pfs-npo-abbr-2017-04-01.xsd pfs-npo-full-2017-04-01.xsd pfs-vl-2017-04-01.xsd ref-2004-08-10.xsd xbrl-instance-2003-12-31.xsd xbrl-linkbase-2003-12-31.xsd xl-2003-12-31.xsd xlink-2003-12-31.xsd /out:Generated
+xsd /classes /parameters:files.xml /out:Generated

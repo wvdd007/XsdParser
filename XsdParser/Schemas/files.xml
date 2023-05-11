@@ -1,0 +1,18 @@
+<xsd xmlns='http://microsoft.com/dotnet/tools/xsd/'>
+<generateClasses language='CS' namespace='Namespace.subnamespace'>
+    <schema>a.xsd</schema>
+    <schema>b.xsd</schema>
+    <schema>c.xsd</schema>
+    <schema>d.xsd</schema>
+    <schema>e.xsd</schema>
+    <schema>f.xsd</schema>
+    <schema>g.xsd</schema>
+    <schema>h.xsd</schema>
+    <schema>i.xsd</schema>
+    <schema>j.xsd</schema>
+    <schema>k.xsd</schema>
+    <schema>l.xsd</schema>
+    <schema>m.xsd</schema>
+    <schema>n.xsd</schema>
+</generateClasses>
+</xsd>
